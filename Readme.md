@@ -1,0 +1,15 @@
+this not prebuild library , 
+this library with example is posted here if somen can resolve the issue on it , 
+because i try to adapt it to work on arduino ide , 
+but my knowledge limited on the library codding , 
+this issue doesnt give me any fully succes ,
+my goal of this project library to control the most common lcds 160x160 of old palm devices like , 
+palm com3, zire series etc. , 
+those lcd even doesn't hava similarity on the stricrture and controller and driver, but is similair ,
+if you search for library for those type of lcds , this is not the right place right now, 
+if you have knowledge to continue this work , not hestitae to share the result with me , 
+
+i realy need someone to continue this work with me, 
+im hobby on this dommain , 
+
+the original file on the folder named old , 
